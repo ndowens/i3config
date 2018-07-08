@@ -60,8 +60,8 @@ bindsym $mod+f fullscreen
 bindsym $mod+n layout tabbed
 bindsym $mod+m layout toggle split
 
-bindsym $mod+d focus parent
-bindsym $mod+b focus child
+#bindsym $mod+d focus parent
+#bindsym $mod+b focus child
 
 bindsym $mod+semicolon move workspace to output right
 
